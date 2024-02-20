@@ -24,4 +24,6 @@ Tools
 
 
 interesting fact
+
+
 I studied literature in South Korea and even won a literary award at a national competition during my high school years. I have a fondness for fairy tales and am very interested in game planning necessary for game development. Of course, I am equally interested in game production itself! I also enjoy exercising and have taken a body profile photo before.
