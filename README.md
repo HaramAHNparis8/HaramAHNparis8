@@ -9,6 +9,6 @@ Tools
 
 <div>
   <img src="file-type-godot.256x243.png" width="50" height="50">
-  <img src="c.png" width="50" height="50">
+  <img src="C.png" width="50" height="50">
 </div>
 
