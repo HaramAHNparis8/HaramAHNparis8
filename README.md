@@ -7,5 +7,5 @@ I am studying Computer Science and Game Engineering at the University of Paris 8
 Tools
 
 
-<img src="(file-type-godot.256x243.png" width="100" height="100">
+<img src="file-type-godot.256x243.png" width="100" height="100">
 
