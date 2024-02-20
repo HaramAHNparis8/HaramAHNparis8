@@ -10,5 +10,11 @@ Tools
 <div>
   <img src="file-type-godot.256x243.png" width="50" height="50">
   <img src="C.png" width="50" height="50">
+  <img src="1200px-Racket-logo.png" width="50" height="50">
+  <img src="2560px-OCaml_Logo.png" width="50" height="50">
+  <img src="PHP-logo.png" width="50" height="50">
+  <img src="Sql_data_base_with_logo.png" width="50" height="50">
+  <img src="file-type-python.512x508.png" width="50" height="50">
+  <img src="golang.png" width="50" height="50">
 </div>
 
