@@ -19,5 +19,6 @@ Tools
   <img src="htmlcss.png" width="50" height="50">
   <img src="prolog.png" width="50" height="50">
   <img src="imageC++.jpeg" width="50" height="50">
+   <img src="js.png" width="50" height="50">
 </div>
 
