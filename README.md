@@ -16,7 +16,7 @@ Tools
   <img src="Sql_data_base_with_logo.png" width="50" height="50">
   <img src="file-type-python.512x508.png" width="50" height="50">
   <img src="golang.png" width="50" height="50">
-  <img src="html:css.png" width="50" height="50">
+  <img src="htmlcss.png" width="50" height="50">
   <img src="prolog.png" width="50" height="50">
   <img src="imageC++.jpeg" width="50" height="50">
 </div>
