@@ -7,5 +7,8 @@ I am studying Computer Science and Game Engineering at the University of Paris 8
 Tools
 
 
-<img src="file-type-godot.256x243.png" width="50" height="50">
+<div>
+  <img src="file-type-godot.256x243.png" width="50" height="50">
+  <img src="python.png" width="50" height="50">
+</div>
 
