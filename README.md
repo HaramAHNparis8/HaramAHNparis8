@@ -1,10 +1,17 @@
 ### Hi there 👋
 Hello, I am a Computer Science student. I have a strong interest in game development. I also like literature, traveling, and new experiences.
+
+
 Bonjour, je suis étudiant en informatique à Paris 8 et à l’ISCOD. Intéressé par le développement de jeux vidéo, j’ai décidé d’étudier l’informatique et ce domaine spécifique. J’apprécie également la littérature, les voyages et les nouvelles expériences.
+
+
 안녕하세요. 파리 8 대학과 ISCODE에서 컴퓨터 공학을 전공 중입니다. 컴퓨터 공학 뿐 아니라 새로운 경험, 여행 문학도 좋아합니다. 
 
+
 I am studying Computer Science, Game Engineering at the University of Paris 8 Vincennes-Saint-Denis and web computer science at the University ISCOD.
+
 J'étudie l'informatique plus exactement, le developpement de jeu vidéo à paris 8 Vincennes-Saint-Denis et developpement web ISCOD.
+
 저는 8대학교에서 컴퓨터 공학을 전공했고, ISCOD에서 웹을 공부했습니다.
 
 Tools
